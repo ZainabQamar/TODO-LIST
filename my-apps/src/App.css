@@ -3,7 +3,7 @@
   background-color: rgba(0, 0, 0, 0.156);
 } */
 body {
-  background-image: url("imges/ig.jpg"); /* Adjust the path as per your folder structure */
+  background-image: url("imges/6.jpg"); /* Adjust the path as per your folder structure */
   background-size: cover;
   background-position: center;
   height: 100vh; /* Adjust as needed */
@@ -15,8 +15,10 @@ body {
   max-width: 500px;
   margin: 50px auto;
   padding: 20px;
-  background: #f8f9fa;
+  background-image: url("./imges/ig.jpg");
+  /* background: #f8f9fa; */
   border-radius: 8px;
+  border: 2px inset rgb(237, 170, 170);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
